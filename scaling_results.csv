@@ -1,0 +1,8 @@
+Experiment,Model,d_model,Layers,Heads,Parameters,Validation Loss,Dataset_size,Validation Loss1 
+Parameter Scaling,Tiny,64,2,2,100096,2.7383952140808105,,
+Parameter Scaling,Small,128,4,4,793344,2.574903726577759,,
+Parameter Scaling,Medium,256,6,8,4739072,2.514540433883667,,
+Data Scaling,Small,128,4,4,793344,,90346.0,2.658642053604126
+Data Scaling,Small,128,4,4,793344,,225867.0,2.635982036590576
+Data Scaling,Small,128,4,4,793344,,451734.0,2.6294074058532715
+Data Scaling,Small,128,4,4,793344,,903468.0,2.5881876945495605
